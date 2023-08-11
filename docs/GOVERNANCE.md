@@ -28,14 +28,15 @@ The management team within the organisation are as follows:
 The following table describes the roles and responsibilities of the other key members of the organisation:
 | Member | Role | Notes |
 | --- | --- | --- |
-| Messy () | Transcribing Lead (College Kings) & Digital Content Artist (REDACTED) | Responsible managing the products Transcribing team and creating digital content for REDACTED. |
-| Mozzart () | Art Director (College Kings) | Responsible for managing the art team and ensuring the art direction of the product is followed. |
-| SpaceStorm () | Quality Assurance Manager (College Kings) | Responsible for managing the College Kings quality assurance team and ensuring the quality the product. |
+| Messy | Transcribing Lead (College Kings) & Digital Content Artist (REDACTED) | Responsible managing the products Transcribing team and creating digital content for REDACTED. |
 | Irish (John) | Main Transcriber (College Kings) | Responsible for transcribing the content of the product. |
+| Mozzart | Art Director (College Kings) | Responsible for managing the art team and ensuring the art direction of the product is followed. |
+| SpaceStorm | Quality Assurance Manager (College Kings) | Responsible for managing the College Kings quality assurance team and ensuring the quality the product. |
 | TariBear (Adam) | Marketing Manager | Responsible for managing the marketing team and ensuring the organisation's products are marketed effectively. |
 | Pete | Lead Writer | Responsible for writing the content of the product. |
-| Bendavies () | Lead writer (REDACTED) | Responsible for writing the content of REDACTED. |
-| Captain Facepalm () | Narrative Designer (REDACTED) | Responsible for designing the narrative and game design of REDACTED. |
+| Chaser | Community Manager | Responsible for managing the community and ensuring the community is engaged. |
+| Bendavies | Lead writer (REDACTED) | Responsible for writing the content of REDACTED. |
+| Captain Facepalm | Narrative Designer (REDACTED) | Responsible for designing the narrative and game design of REDACTED. |
 
 ## Decision Making Process
 
