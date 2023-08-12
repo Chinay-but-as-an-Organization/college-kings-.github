@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<!--
+### 🙋‍♀️ A short introduction
 
-**Here are some ideas to get you started:**
+CrimsonSky is a game development company that is currently working on two projects, College Kings and REDACTED. College Kings is a visual novel game that is currently in development.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🌈 Contribution guidelines
+
+Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) file for more information.
+
+### 👩‍💻 Useful resources
+
+Please see the [docs](./docs) folder for more information.
